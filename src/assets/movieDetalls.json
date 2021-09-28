@@ -1,0 +1,180 @@
+{
+	"399566": {
+			"adult":false,
+			"backdrop_path":"/vpdBOYTWgjrh90JN1Yc1YnCPFkD.jpg",
+			"belongs_to_collection":
+			{
+				"id":535313,
+				"name":"Godzilla Collection",
+				"poster_path":"/inNN466SKHNjbGmpfhfsaPQNleS.jpg",
+				"backdrop_path":"/oboBn4VYB79uDxnyIri0Nt3U3N2.jpg"
+			},
+			"budget":200000000,
+			"genres":[
+				{
+					"id":28,
+					"name":"Action"
+				},
+				{
+				"id":878,
+				"name":"Science Fiction"
+				}
+		],
+			"homepage":"https://www.godzillavskong.net",
+			"id":399566,
+			"imdb_id":"tt5034838",
+			"original_language":"en",
+			"original_title":"Godzilla vs. Kong",
+			"overview":"In a time when monsters walk the Earth, humanity’s fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages.",
+			"popularity":9975.169,
+			"poster_path":"/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",
+			"production_companies":[
+				{
+				"id":174,
+				"logo_path":"/ky0xOc5OrhzkZ1N6KyUxacfQsCk.png",
+				"name":"Warner Bros. Pictures",
+				"origin_country":"US"
+			},
+			{
+			"id":923,
+			"logo_path":"/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+			"name":"Legendary Pictures",
+			"origin_country":"US"
+		}
+	],
+			"production_countries":[
+				{
+				"iso_3166_1":"US",
+				"name":"United States of America"
+			}
+		],
+			"release_date":"2021-03-24",
+			"revenue":285400000,
+			"runtime":113,
+			"spoken_languages":[
+				{
+				"english_name":"English",
+				"iso_639_1":"en","name":"English"
+			}
+		],
+		"status":"Released",
+		"tagline":"One Will Fall",
+		"title":"Godzilla vs. Kong",
+		"video":false,
+		"vote_average":8.4,
+		"vote_count":3877
+	},
+
+	"791373": {
+		"adult":false,
+		"backdrop_path":"/pcDc2WJAYGJTTvRSEIpRZwM3Ola.jpg",
+		"belongs_to_collection":null,
+		"budget":70000000,
+		"genres":[{"id":28,"name":"Action"},{"id":12,"name":"Adventure"},{"id":14,"name":"Fantasy"},{"id":878,"name":"Science Fiction"}],
+		"homepage":"https://www.hbomax.com/zacksnydersjusticeleague",
+		"id":791373,
+		"imdb_id":"tt12361974",
+		"original_language":"en",
+		"original_title":"Zack Snyder's Justice League",
+		"overview":"Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
+		"popularity":4039.736,
+		"poster_path":"/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+		"production_companies":[{"id":174,"logo_path":"/ky0xOc5OrhzkZ1N6KyUxacfQsCk.png","name":"Warner Bros. Pictures","origin_country":"US"},{"id":114152,"logo_path":null,"name":"The Stone Quarry","origin_country":"US"},{"id":507,"logo_path":"/z7H707qUWigbjHnJDMfj6QITEpb.png","name":"Atlas Entertainment","origin_country":"US"},{"id":9993,"logo_path":"/2Tc1P3Ac8M479naPp1kYT3izLS5.png","name":"DC Entertainment","origin_country":"US"},{"id":103376,"logo_path":null,"name":"Access Entertainment","origin_country":"US"},{"id":444,"logo_path":"/42UPdZl6B2cFXgNUASR8hSt9mpS.png","name":"Dune Entertainment","origin_country":"US"},{"id":128064,"logo_path":"/13F3Jf7EFAcREU0xzZqJnVnyGXu.png","name":"DC Films","origin_country":"US"},{"id":429,"logo_path":"/2Tc1P3Ac8M479naPp1kYT3izLS5.png","name":"DC Comics","origin_country":"US"}],
+		"production_countries":[{"iso_3166_1":"US","name":"United States of America"}],
+		"release_date":"2021-03-18",
+		"revenue":0,
+		"runtime":242,
+		"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"}],
+		"status":"Released",
+		"tagline":"",
+		"title":"Zack Snyder's Justice League",
+		"video":false,
+		"vote_average":8.6,
+		"vote_count":4651
+	},
+
+	"527774": {
+		"adult":false,
+		"backdrop_path":"/hJuDvwzS0SPlsE6MNFOpznQltDZ.jpg",
+		"belongs_to_collection":null,
+		"budget":0,
+		"genres":[{"id":16,"name":"Animation"},{"id":12,"name":"Adventure"},{"id":14,"name":"Fantasy"},{"id":10751,"name":"Family"},{"id":28,"name":"Action"}],
+		"homepage":"https://movies.disney.com/raya-and-the-last-dragon",
+		"id":527774,
+		"imdb_id":"tt5109280",
+		"original_language":"en",
+		"original_title":"Raya and the Last Dragon",
+		"overview":"Long ago, in the fantasy world of Kumandra, humans and dragons lived together in harmony. But when an evil force threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, that same evil has returned and it’s up to a lone warrior, Raya, to track down the legendary last dragon to restore the fractured land and its divided people.",
+		"popularity":2246.905,
+		"poster_path":"/lPsD10PP4rgUGiGR4CCXA6iY0QQ.jpg",
+		"production_companies":[{"id":2,"logo_path":"/wdrCwmRnLFJhEoH8GSfymY85KHT.png","name":"Walt Disney Pictures","origin_country":"US"},{"id":6125,"logo_path":"/tVPmo07IHhBs4HuilrcV0yujsZ9.png","name":"Walt Disney Animation Studios","origin_country":"US"}],"production_countries":[{"iso_3166_1":"US","name":"United States of America"}],"release_date":"2021-03-03","revenue":56482606,"runtime":107,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"}],"status":"Released","tagline":"A quest to save her world.","title":"Raya and the Last Dragon","video":false,"vote_average":8.3,"vote_count":2122
+	},
+
+	"581389": {
+		"adult":false,"backdrop_path":"/drulhSX7P5TQlEMQZ3JoXKSDEfz.jpg","belongs_to_collection":null,"budget":21000000,"genres":[{"id":18,"name":"Drama"},{"id":14,"name":"Fantasy"},{"id":878,"name":"Science Fiction"}],"homepage":"https://www.netflix.com/title/81094067","id":581389,"imdb_id":"tt12838766","original_language":"ko","original_title":"승리호","overview":"When the crew of a space junk collector ship called The Victory discovers a humanoid robot named Dorothy that's known to be a weapon of mass destruction, they get involved in a risky business deal which puts their lives at stake.","popularity":1211.235,"poster_path":"/bmemsraCG1kIthY74NjDnnLRT2Q.jpg","production_companies":[{"id":11589,"logo_path":null,"name":"Bidangil Pictures","origin_country":"KR"},{"id":114519,"logo_path":"/omfLDgUXKmXly7T7bWBpKstq3HP.png","name":"Merry Christmas","origin_country":"KR"}],"production_countries":[{"iso_3166_1":"KR","name":"South Korea"}],"release_date":"2021-02-05","revenue":0,"runtime":136,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"},{"english_name":"Arabic","iso_639_1":"ar","name":"العربية"},{"english_name":"Spanish","iso_639_1":"es","name":"Español"},{"english_name":"Mandarin","iso_639_1":"zh","name":"普通话"},{"english_name":"Korean","iso_639_1":"ko","name":"한국어/조선말"},{"english_name":"Danish","iso_639_1":"da","name":"Dansk"},{"english_name":"French","iso_639_1":"fr","name":"Français"},{"english_name":"Russian","iso_639_1":"ru","name":"Pусский"},{"english_name":"Tagalog","iso_639_1":"tl","name":""}],"status":"Released","tagline":"2092, the space sweep begins!","title":"Space Sweepers","video":false,"vote_average":7.2,"vote_count":476
+	},
+
+	"587807": {
+		"adult":false,"backdrop_path":"/fev8UFNFFYsD5q7AcYS8LyTzqwl.jpg","belongs_to_collection":null,"budget":50000000,"genres":[{"id":35,"name":"Comedy"},{"id":10751,"name":"Family"},{"id":16,"name":"Animation"}],"homepage":"https://www.tomandjerrymovie.com","id":587807,"imdb_id":"tt1361336","original_language":"en","original_title":"Tom & Jerry","overview":"Tom the cat and Jerry the mouse get kicked out of their home and relocate to a fancy New York hotel, where a scrappy employee named Kayla will lose her job if she can’t evict Jerry before a high-class wedding at the hotel. Her solution? Hiring Tom to get rid of the pesky mouse.","popularity":1510.284,"poster_path":"/6KErczPBROQty7QoIsaa6wJYXZi.jpg","production_companies":[{"id":25120,"logo_path":"/lqUpBvDLQYG3QaKNpe2lxfpgh36.png","name":"Warner Animation Group","origin_country":"US"},{"id":174,"logo_path":"/ky0xOc5OrhzkZ1N6KyUxacfQsCk.png","name":"Warner Bros. Pictures","origin_country":"US"},{"id":8922,"logo_path":"/yZWehAyjfKi4KvKeg1bkJ1bm5H8.png","name":"Turner Entertainment","origin_country":"US"},{"id":77061,"logo_path":null,"name":"The Story Company","origin_country":""}],"production_countries":[{"iso_3166_1":"US","name":"United States of America"}],"release_date":"2021-02-11","revenue":66890000,"runtime":101,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"}],"status":"Released","tagline":"Best of enemies. Worst of friends.","title":"Tom & Jerry","video":false,"vote_average":7.4,"vote_count":1141
+	},
+
+	"464052": {
+		"adult":false,"backdrop_path":"/egg7KFi18TSQc1s24RMmR9i2zO6.jpg","belongs_to_collection":{"id":468552,"name":"Wonder Woman Collection","poster_path":"/8AQRfTuTHeFTddZN4IUAqprN8Od.jpg","backdrop_path":"/n9KlvCOBFDmSyw3BgNrkUkxMFva.jpg"},"budget":200000000,"genres":[{"id":14,"name":"Fantasy"},{"id":28,"name":"Action"},{"id":12,"name":"Adventure"}],"homepage":"https://www.warnerbros.com/movies/wonder-woman-1984","id":464052,"imdb_id":"tt7126948","original_language":"en","original_title":"Wonder Woman 1984","overview":"A botched store robbery places Wonder Woman in a global battle against a powerful and mysterious ancient force that puts her powers in jeopardy.","popularity":1327.684,"poster_path":"/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg","production_companies":[{"id":9993,"logo_path":"/2Tc1P3Ac8M479naPp1kYT3izLS5.png","name":"DC Entertainment","origin_country":"US"},{"id":174,"logo_path":"/ky0xOc5OrhzkZ1N6KyUxacfQsCk.png","name":"Warner Bros. Pictures","origin_country":"US"},{"id":114152,"logo_path":null,"name":"The Stone Quarry","origin_country":"US"},{"id":128064,"logo_path":"/13F3Jf7EFAcREU0xzZqJnVnyGXu.png","name":"DC Films","origin_country":"US"},{"id":507,"logo_path":"/z7H707qUWigbjHnJDMfj6QITEpb.png","name":"Atlas Entertainment","origin_country":"US"},{"id":429,"logo_path":"/2Tc1P3Ac8M479naPp1kYT3izLS5.png","name":"DC Comics","origin_country":"US"}],"production_countries":[{"iso_3166_1":"US","name":"United States of America"}],"release_date":"2020-12-16","revenue":165160000,"runtime":151,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"}],"status":"Released","tagline":"A new era of wonder begins.","title":"Wonder Woman 1984","video":false,"vote_average":6.8,"vote_count":4729
+	},
+
+	"458576": {
+		"adult":false,"backdrop_path":"/z8TvnEVRenMSTemxYZwLGqFofgF.jpg","belongs_to_collection":null,"budget":60000000,"genres":[{"id":14,"name":"Fantasy"},{"id":28,"name":"Action"},{"id":12,"name":"Adventure"}],"homepage":"https://www.monsterhunter.movie","id":458576,"imdb_id":"tt6475714","original_language":"en","original_title":"Monster Hunter","overview":"A portal transports Cpt. Artemis and an elite unit of soldiers to a strange world where powerful monsters rule with deadly ferocity. Faced with relentless danger, the team encounters a mysterious hunter who may be their only hope to find a way home.","popularity":1357.833,"poster_path":"/1UCOF11QCw8kcqvce8LKOO6pimh.jpg","production_companies":[{"id":7220,"logo_path":"/dD0x5awPmtx4sAr2pNvkmxkCODh.png","name":"CAPCOM","origin_country":"JP"},{"id":47,"logo_path":"/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png","name":"Constantin Film","origin_country":"DE"},{"id":248,"logo_path":null,"name":"Impact Pictures","origin_country":"CA"},{"id":81620,"logo_path":"/gNp4dfuBOXmVWdGKb63NfbFNbFi.png","name":"Tencent Pictures","origin_country":"CN"},{"id":882,"logo_path":"/fRSWWjquvzcHjACbtF53utZFIll.png","name":"Toho Company, Ltd.","origin_country":"JP"},{"id":3287,"logo_path":"/bz6GbCQQXGNE56LTW9dwgksW0Iw.png","name":"Screen Gems","origin_country":"US"},{"id":34,"logo_path":"/GagSvqWlyPdkFHMfQ3pNq6ix9P.png","name":"Sony Pictures","origin_country":"US"}],"production_countries":[{"iso_3166_1":"DE","name":"Germany"},{"iso_3166_1":"CA","name":"Canada"},{"iso_3166_1":"CN","name":"China"},{"iso_3166_1":"US","name":"United States of America"},{"iso_3166_1":"JP","name":"Japan"}],"release_date":"2020-12-03","revenue":25814306,"runtime":104,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"}],"status":"Released","tagline":"Behind our world, there is another.","title":"Monster Hunter","video":false,"vote_average":7.1,"vote_count":1387
+	},
+
+	"793723": {
+		"adult":false,"backdrop_path":"/gzJnMEMkHowkUndn9gCr8ghQPzN.jpg","belongs_to_collection":null,"budget":0,"genres":[{"id":53,"name":"Thriller"},{"id":28,"name":"Action"},{"id":18,"name":"Drama"}],"homepage":"https://www.netflix.com/title/81218770","id":793723,"imdb_id":"tt11734264","original_language":"fr","original_title":"Sentinelle","overview":"Transferred home after a traumatizing combat mission, a highly trained French soldier uses her lethal skills to hunt down the man who hurt her sister.","popularity":1211.532,"poster_path":"/fFRq98cW9lTo6di2o4lK1qUAWaN.jpg","production_companies":[{"id":12648,"logo_path":null,"name":"Labyrinthe Films","origin_country":"FR"}],"production_countries":[{"iso_3166_1":"FR","name":"France"}],"release_date":"2021-03-05","revenue":0,"runtime":80,"spoken_languages":[{"english_name":"French","iso_639_1":"fr","name":"Français"}],"status":"Released","tagline":"","title":"Sentinelle","video":false,"vote_average":6.0,"vote_count":315
+	},
+
+	"544401": {
+		"adult":false,"backdrop_path":"/uQtqiAu2bBlokqjlURVLEha6zoi.jpg","belongs_to_collection":null,"budget":40000000,"genres":[{"id":80,"name":"Crime"},{"id":18,"name":"Drama"}],"homepage":"https://tv.apple.com/movie/umc.cmc.40gvwq6hnbilmnxuutvmejx4r","id":544401,"imdb_id":"tt9130508","original_language":"en","original_title":"Cherry","overview":"Cherry drifts from college dropout to army medic in Iraq - anchored only by his true love, Emily. But after returning from the war with PTSD, his life spirals into drugs and crime as he struggles to find his place in the world.","popularity":1347.32,"poster_path":"/pwDvkDyaHEU9V7cApQhbcSJMG1w.jpg","production_companies":[{"id":106544,"logo_path":null,"name":"AGBO","origin_country":"US"},{"id":103673,"logo_path":null,"name":"The Hideaway Entertainment","origin_country":"US"}],"production_countries":[{"iso_3166_1":"US","name":"United States of America"}],"release_date":"2021-02-26","revenue":0,"runtime":140,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"}],"status":"Released","tagline":"Life leaves a mark.","title":"Cherry","video":false,"vote_average":7.6,"vote_count":468
+	},
+
+	"587996": {
+		"adult":false,"backdrop_path":"/6TPZSJ06OEXeelx1U1VIAt0j9Ry.jpg","belongs_to_collection":null,"budget":0,"genres":[{"id":28,"name":"Action"},{"id":80,"name":"Crime"},{"id":53,"name":"Thriller"}],"homepage":"https://www.netflix.com/title/81038588","id":587996,"imdb_id":"tt9845564","original_language":"es","original_title":"Bajocero","overview":"When a prisoner transfer van is attacked, the cop in charge must fight those inside and outside while dealing with a silent foe: the icy temperatures.","popularity":1203.229,"poster_path":"/dWSnsAGTfc8U27bWsy2RfwZs0Bs.jpg","production_companies":[{"id":10031,"logo_path":"/cUOviFxM9l3dYuNeg89giHUaqkd.png","name":"Morena Films","origin_country":"ES"},{"id":83987,"logo_path":null,"name":"Amorós Producciones","origin_country":""},{"id":35559,"logo_path":null,"name":"ICEC","origin_country":"ES"},{"id":981,"logo_path":"/pkrdO9ykplO4Zc8edikoSX5APUN.png","name":"TVE","origin_country":"ES"}],"production_countries":[{"iso_3166_1":"ES","name":"Spain"}],"release_date":"2021-01-29","revenue":0,"runtime":106,"spoken_languages":[{"english_name":"Spanish","iso_639_1":"es","name":"Español"}],"status":"Released","tagline":"Escape is not the exit.","title":"Below Zero","video":false,"vote_average":6.4,"vote_count":499
+	},
+
+	"775996": {
+		"adult":false,"backdrop_path":"/lOSdUkGQmbAl5JQ3QoHqBZUbZhC.jpg","belongs_to_collection":null,"budget":0,"genres":[{"id":53,"name":"Thriller"},{"id":28,"name":"Action"},{"id":878,"name":"Science Fiction"},{"id":14,"name":"Fantasy"}],"homepage":"https://www.netflix.com/title/81074110","id":775996,"imdb_id":"tt10451914","original_language":"en","original_title":"Outside the Wire","overview":"In the near future, a drone pilot is sent into a deadly militarized zone and must work with an android officer to locate a doomsday device.","popularity":922.036,"poster_path":"/6XYLiMxHAaCsoyrVo38LBWMw2p8.jpg","production_companies":[{"id":146553,"logo_path":null,"name":"Inspire Entertainment","origin_country":""},{"id":7625,"logo_path":"/kzq4ibnNeZrp00zpBWv3st1QCOh.png","name":"Automatik Entertainment","origin_country":"US"},{"id":114032,"logo_path":null,"name":"Pioneer Stilking Films","origin_country":"GB"},{"id":118603,"logo_path":null,"name":"Leeding Media","origin_country":""}],"production_countries":[{"iso_3166_1":"US","name":"United States of America"}],"release_date":"2021-01-15","revenue":0,"runtime":116,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"},{"english_name":"Turkish","iso_639_1":"tr","name":"Türkçe"}],"status":"Released","tagline":"Defiant by design.","title":"Outside the Wire","video":false,"vote_average":6.5,"vote_count":961
+	},
+
+	"649087": {
+		"adult":false,"backdrop_path":"/7KL4yJ4JsbtS1BNRilUApLvMnc5.jpg","belongs_to_collection":null,"budget":0,"genres":[{"id":18,"name":"Drama"},{"id":53,"name":"Thriller"},{"id":27,"name":"Horror"}],"homepage":"https://www.netflix.com/title/81028990","id":649087,"imdb_id":"tt11307814","original_language":"sv","original_title":"Red Dot","overview":"On a hiking trip to rekindle their marriage, a couple find themselves fleeing for their lives in the unforgiving wilderness from an unknown shooter.","popularity":714.292,"poster_path":"/xZ2KER2gOHbuHP2GJoODuXDSZCb.jpg","production_companies":[{"id":5610,"logo_path":null,"name":"Film i Dalarna","origin_country":"SE"},{"id":12985,"logo_path":"/uRymXGaLN9pWScoajjiXHirTcQk.png","name":"SF Studio","origin_country":"SE"}],"production_countries":[{"iso_3166_1":"SE","name":"Sweden"}],"release_date":"2021-02-11","revenue":0,"runtime":86,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"},{"english_name":"Swedish","iso_639_1":"sv","name":"svenska"}],"status":"Released","tagline":"","title":"Red Dot","video":false,"vote_average":5.9,"vote_count":415
+	},
+
+	"602269": {
+		"adult":false,"backdrop_path":"/vfuzELmhBjBTswXj2Vqxnu5ge4g.jpg","belongs_to_collection":null,"budget":30000000,"genres":[{"id":53,"name":"Thriller"},{"id":80,"name":"Crime"}],"homepage":"https://www.thelittlethingsmovie.com","id":602269,"imdb_id":"tt10016180","original_language":"en","original_title":"The Little Things","overview":"Deputy Sheriff Joe \"Deke\" Deacon joins forces with Sgt. Jim Baxter to search for a serial killer who's terrorizing Los Angeles. As they track the culprit, Baxter is unaware that the investigation is dredging up echoes of Deke's past, uncovering disturbing secrets that could threaten more than his case.","popularity":747.778,"poster_path":"/c7VlGCCgM9GZivKSzBgzuOVxQn7.jpg","production_companies":[{"id":174,"logo_path":"/ky0xOc5OrhzkZ1N6KyUxacfQsCk.png","name":"Warner Bros. Pictures","origin_country":"US"},{"id":2605,"logo_path":null,"name":"Gran Via Productions","origin_country":"US"}],"production_countries":[{"iso_3166_1":"US","name":"United States of America"}],"release_date":"2021-01-28","revenue":23205000,"runtime":128,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"}],"status":"Released","tagline":"Some things never let us go.","title":"The Little Things","video":false,"vote_average":6.4,"vote_count":719
+	},
+
+	"522444": {
+		"adult":false,"backdrop_path":"/fRrpOILyXuWaWLmqF7kXeMVwITQ.jpg","belongs_to_collection":{"id":730166,"name":"Black Water Collection","poster_path":"/fNJLLsTOQYwtsL0Lo6zBSnwqLM5.jpg","backdrop_path":"/4iNHTuWX33TdGmOqNhY7FL6mrXY.jpg"},"budget":0,"genres":[{"id":27,"name":"Horror"},{"id":53,"name":"Thriller"},{"id":12,"name":"Adventure"},{"id":9648,"name":"Mystery"}],"homepage":"","id":522444,"imdb_id":"tt7978672","original_language":"en","original_title":"Black Water: Abyss","overview":"An adventure-loving couple convince their friends to explore a remote, uncharted cave system in the forests of Northern Australia. With a tropical storm approaching, they abseil into the mouth of the cave, but when the caves start to flood, tensions rise as oxygen levels fall and the friends find themselves trapped. Unknown to them, the storm has also brought in a pack of dangerous and hungry crocodiles.","popularity":772.798,"poster_path":"/95S6PinQIvVe4uJAd82a2iGZ0rA.jpg","production_companies":[{"id":85170,"logo_path":null,"name":"Altitude Film Sales","origin_country":"GB"},{"id":46813,"logo_path":null,"name":"Cornerstone Pictures","origin_country":""},{"id":22897,"logo_path":null,"name":"ProdigyMovies","origin_country":""}],"production_countries":[{"iso_3166_1":"US","name":"United States of America"}],"release_date":"2020-07-09","revenue":0,"runtime":98,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"},{"english_name":"French","iso_639_1":"fr","name":"Français"},{"english_name":"Russian","iso_639_1":"ru","name":"Pусский"},{"english_name":"Spanish","iso_639_1":"es","name":"Español"}],"status":"Released","tagline":"Descend into fear","title":"Black Water: Abyss","video":false,"vote_average":5.0,"vote_count":181
+	},
+
+	"664767": {
+		"adult":false,"backdrop_path":"/9xeEGUZjgiKlI69jwIOi0hjKUIk.jpg","belongs_to_collection":null,"budget":0,"genres":[{"id":16,"name":"Animation"},{"id":28,"name":"Action"},{"id":14,"name":"Fantasy"}],"homepage":"https://www.warnerbros.com/movies/mortal-kombat-legends-scorpions-revenge","id":664767,"imdb_id":"tt9580138","original_language":"en","original_title":"Mortal Kombat Legends: Scorpion's Revenge","overview":"After the vicious slaughter of his family by stone-cold mercenary Sub-Zero, Hanzo Hasashi is exiled to the torturous Netherrealm. There, in exchange for his servitude to the sinister Quan Chi, he’s given a chance to avenge his family – and is resurrected as Scorpion, a lost soul bent on revenge. Back on Earthrealm, Lord Raiden gathers a team of elite warriors – Shaolin monk Liu Kang, Special Forces officer Sonya Blade and action star Johnny Cage – an unlikely band of heroes with one chance to save humanity. To do this, they must defeat Shang Tsung’s horde of Outworld gladiators and reign over the Mortal Kombat tournament.","popularity":807.367,"poster_path":"/4VlXER3FImHeFuUjBShFamhIp9M.jpg","production_companies":[{"id":2785,"logo_path":"/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png","name":"Warner Bros. Animation","origin_country":"US"},{"id":13033,"logo_path":null,"name":"NetherRealm Studios","origin_country":""}],"production_countries":[{"iso_3166_1":"US","name":"United States of America"}],"release_date":"2020-04-12","revenue":0,"runtime":80,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"}],"status":"Released","tagline":"","title":"Mortal Kombat Legends: Scorpion's Revenge","video":false,"vote_average":8.4,"vote_count":824
+	},
+
+	"755812": {
+		"adult":false,"backdrop_path":"/aMFl4wOPhJ7NVua6SgU9zIJvFSx.jpg","belongs_to_collection":null,"budget":0,"genres":[{"id":16,"name":"Animation"},{"id":10751,"name":"Family"}],"homepage":"","id":755812,"imdb_id":"tt12816348","original_language":"fr","original_title":"Miraculous World: New York, United HeroeZ","overview":"During a school field trip, Ladybug and Cat Noir meet the American superheroes, whom they have to save from an akumatised super-villain. They discover that Miraculous exist in the United States too.","popularity":933.547,"poster_path":"/kIHgjAkuzvKBnmdstpBOo4AfZah.jpg","production_companies":[],"production_countries":[],"release_date":"2020-09-26","revenue":0,"runtime":55,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"},{"english_name":"French","iso_639_1":"fr","name":"Français"}],"status":"Released","tagline":"NEW CITY. SAME DUTY.","title":"Miraculous World: New York, United HeroeZ","video":false,"vote_average":8.3,"vote_count":603
+	},
+
+	"560144": {
+		"adult":false,"backdrop_path":"/3ombg55JQiIpoPnXYb2oYdr6DtP.jpg","belongs_to_collection":{"id":484312,"name":"Skyline Collection","poster_path":"/jaWM0xXSLeb1O2lpfQ9kI0WiGOu.jpg","backdrop_path":"/b2JplRt6qfZKkupnoxl57n3r46y.jpg"},"budget":0,"genres":[{"id":878,"name":"Science Fiction"},{"id":28,"name":"Action"}],"homepage":"","id":560144,"imdb_id":"tt9387250","original_language":"en","original_title":"Skylines","overview":"When a virus threatens to turn the now earth-dwelling friendly alien hybrids against humans, Captain Rose Corley must lead a team of elite mercenaries on a mission to the alien world in order to save what's left of humanity.","popularity":651.814,"poster_path":"/2W4ZvACURDyhiNnSIaFPHfNbny3.jpg","production_companies":[{"id":66497,"logo_path":null,"name":"Mirabelle Pictures Productions","origin_country":""},{"id":27758,"logo_path":null,"name":"Artbox","origin_country":""},{"id":146052,"logo_path":null,"name":"Fasten Films","origin_country":""},{"id":117747,"logo_path":null,"name":"Media Finance Capital","origin_country":"GB"},{"id":99449,"logo_path":null,"name":"M45 Productions","origin_country":""},{"id":10936,"logo_path":null,"name":"Hydraulx","origin_country":""},{"id":150079,"logo_path":null,"name":"Gifflar Films Limited","origin_country":""},{"id":9987,"logo_path":"/o5OTKAw7Acl5fTZYPyl8M8D9570.png","name":"Lipsync Productions","origin_country":"GB"}],"production_countries":[{"iso_3166_1":"FR","name":"France"},{"iso_3166_1":"LT","name":"Lithuania"},{"iso_3166_1":"GB","name":"United Kingdom"}],"release_date":"2020-10-25","revenue":0,"runtime":113,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"}],"status":"Released","tagline":"To save our world she must invade theirs.","title":"Skylines","video":false,"vote_average":5.9,"vote_count":252
+	},
+
+	"651571": {
+		"adult":false,"backdrop_path":"/nz8xWrTKZzA5A7FgxaM4kfAoO1W.jpg","belongs_to_collection":null,"budget":0,"genres":[{"id":878,"name":"Science Fiction"},{"id":28,"name":"Action"}],"homepage":"https://crediblepapers.com/writing-services/","id":651571,"imdb_id":"tt9820556","original_language":"en","original_title":"Breach","overview":"A hardened mechanic must stay awake and maintain an interstellar ark fleeing the dying planet Earth with a few thousand lucky souls on board... the last of humanity. Unfortunately, humans are not the only passengers. A shapeshifting alien creature has taken residence, its only goal is to kill as many people as possible. The crew must think quickly to stop this menace before it destroys mankind.","popularity":566.657,"poster_path":"/13B6onhL6FzSN2KaNeQeMML05pS.jpg","production_companies":[{"id":68628,"logo_path":null,"name":"308 Enterprises","origin_country":"CA"},{"id":111475,"logo_path":"/xLMf5BHjpRoZBxeHalZCqXavkhk.png","name":"Almost Never Films","origin_country":"US"},{"id":5322,"logo_path":"/6Vk4WZnKJuC6z6HKBGFirbWwWwV.png","name":"Aloe Entertainment","origin_country":"US"}],"production_countries":[{"iso_3166_1":"CA","name":"Canada"},{"iso_3166_1":"US","name":"United States of America"}],"release_date":"2020-12-17","revenue":39328,"runtime":92,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"}],"status":"Released","tagline":"Deep in space they are not alone.","title":"Breach","video":false,"vote_average":4.6,"vote_count":353
+	},
+
+	"529203": {
+		"adult":false,"backdrop_path":"/cjaOSjsjV6cl3uXdJqimktT880L.jpg","belongs_to_collection":{"id":464577,"name":"The Croods Collection","poster_path":"/ngKY2KzudNpC7j8a0OWjJRY0tHv.jpg","backdrop_path":"/8MjzBahFKCuQbwytpPPds7qboQa.jpg"},"budget":65000000,"genres":[{"id":10751,"name":"Family"},{"id":14,"name":"Fantasy"},{"id":16,"name":"Animation"},{"id":35,"name":"Comedy"}],"homepage":"https://www.dreamworks.com/movies/the-croods-2","id":529203,"imdb_id":"tt2850386","original_language":"en","original_title":"The Croods: A New Age","overview":"Searching for a safer habitat, the prehistoric Crood family discovers an idyllic, walled-in paradise that meets all of its needs. Unfortunately, they must also learn to live with the Bettermans -- a family that's a couple of steps above the Croods on the evolutionary ladder. As tensions between the new neighbors start to rise, a new threat soon propels both clans on an epic adventure that forces them to embrace their differences, draw strength from one another, and survive together.","popularity":856.466,"poster_path":"/tbVZ3Sq88dZaCANlUcewQuHQOaE.jpg","production_companies":[{"id":33,"logo_path":"/8lvHyhjr8oUKOOy2dKXoALWKdp0.png","name":"Universal Pictures","origin_country":"US"},{"id":521,"logo_path":"/kP7t6RwGz2AvvTkvnI1uteEwHet.png","name":"DreamWorks Animation","origin_country":"US"}],"production_countries":[{"iso_3166_1":"US","name":"United States of America"}],"release_date":"2020-11-25","revenue":135076090,"runtime":95,"spoken_languages":[{"english_name":"English","iso_639_1":"en","name":"English"}],"status":"Released","tagline":"The future ain't what it used to be.","title":"The Croods: A New Age","video":false,"vote_average":7.5,"vote_count":1912
+	},
+
+	"373571": {
+		"adult":false,"backdrop_path":"/jb6Ju38HmKX0bYHCmAxs8HyNeJ2.jpg","belongs_to_collection":{"id":535313,"name":"Godzilla Collection","poster_path":"/inNN466SKHNjbGmpfhfsaPQNleS.jpg","backdrop_path":"/oboBn4VYB79uDxnyIri0Nt3U3N2.jpg"},"budget":170000000,"genres":[{"id":878,"name":"Science Fiction"},{"id":28,"name":"Action"}],"homepage":"http://www.godzillamovie.com","id":373571,"imdb_id":"tt3741700","original_language":"en","original_title":"Godzilla: King of the Monsters","overview":"Follows the heroic efforts of the crypto-zoological agency Monarch as its members face off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah. When these ancient super-species, thought to be mere myths, rise again, they all vie for supremacy, leaving humanity's very existence hanging in the balance.","popularity":510.361,"poster_path":"/pU3bnutJU91u3b4IeRPQTOP8jhV.jpg","production_companies":[{"id":923,"logo_path":"/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png","name":"Legendary Pictures","origin_country":"US"},{"id":174,"logo_path":"/ky0xOc5OrhzkZ1N6KyUxacfQsCk.png","name":"Warner Bros. Pictures","origin_country":"US"},{"id":83645,"logo_path":null,"name":"Huahua Media","origin_country":"CN"},{"id":882,"logo_path":"/fRSWWjquvzcHjACbtF53utZFIll.png","name":"Toho Company, Ltd.","origin_country":"JP"},{"id":121255,"logo_path":null,"name":"Wanda Qingdao Studios","origin_country":""}],"production_countries":[{"iso_3166_1":"CA","name":"Canada"},{"iso_3166_1":"CN","name":"China"},{"iso_3166_1":"JP","name":"Japan"},{"iso_3166_1":"US","name":"United States of America"}],"release_date":"2019-05-29","revenue":386600138,"runtime":132,"spoken_languages":[{"english_name":"Mandarin","iso_639_1":"zh","name":"普通话"},{"english_name":"English","iso_639_1":"en","name":"English"},{"english_name":"Japanese","iso_639_1":"ja","name":"日本語"}],"status":"Released","tagline":"Long live the king.","title":"Godzilla: King of the Monsters","video":false,"vote_average":6.7,"vote_count":3944
+	}
+}
